@@ -1,10 +1,10 @@
-# Brainwave
+# Sleekai
 
-| A React landing page designed as an extension for an A.I application
+| A React landing page designed as an extension for an A.I start-up
 
 ## Description
 
-Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or inspiration for future modern applications or websites in general.
+Sleekai - Modern UI/UX website, developed using React.js and Tailwind CSS, exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or inspiration for future modern applications or websites in general.
 
 ## Features
 
@@ -20,26 +20,3 @@ Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exe
 - React
 - Vite
 - TailwindCSS
-
-## Installation
-
-**Cloning the Repository**
-
-```
-git clone https://github.com/JavaScript-Mastery-Pro/brainwave.git
-cd brainwave
-```
-
-Install the project dependencies using npm:
-
-```
-npm install
-```
-
-**Running the Project**
-
-```
-npm run dev
-```
-
-Open [http://localhost:5173](http://localhost:5173/) in your browser to view the project.
